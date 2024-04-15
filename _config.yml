@@ -22,10 +22,10 @@ repository               : "https://nelwa256/nwasswa.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Computer Scientist"
+  name             : #"Computer Scientist"
   pronouns         : # example: "she/her"  
   bio              : "A few things in life concern me, One is lif,e the other is how we live it."
-  location         : "Washington DC, Kampala"
+  location         : "Kampala, Uganda"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "nelson@sodzofoundation.org" 
