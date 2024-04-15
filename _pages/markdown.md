@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "News & Media"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 ## Locations of key files/directories
+
+Finalists of The .Org Impact Awards 2023. By - PR Newswire: [Link](https://www.prnewswire.com/in/news-releases/public-interest-registry-announces-2023-org-impact-awards-finalists-padma-lakshmi-to-host-301944439.html)
+
+Wasswa Takes Fight To Polluters Of Water Bodies. By  – The Observer News Paper, 2023: [Link](https://observer.ug/news/headlines/78660-wasswa-takes-fight-to-polluters-of-water-bodies)
+
+Boosting Nonprofits in their Use of Data to Drive Climate Action. By - Patrick J McGovern Foundation, May 23, 2022: [Link](https://medium.com/patrick-j-mcgovern-foundation/boosting-nonprofits-in-their-use-of-data-to-drive-climate-action-a35c5c83ee01)
+
+Youths Transforming Uganda: Youth International Day. By - SEE TV, August 2021: [Link](https://youtu.be/xTuTmps1JZk?t=535)
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
