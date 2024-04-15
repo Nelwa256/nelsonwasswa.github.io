@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Interviews and recognitions in the press
+## Articles, Interviews and recognitions about my work
 
 | Links            | Year   |    Description                                               |
 | --------         | ------ | ------------------------------------------------------------ |
