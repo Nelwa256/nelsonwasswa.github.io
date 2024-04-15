@@ -7,15 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Finalists of The .Org Impact Awards 2023. By - PR Newswire: [Link](https://www.prnewswire.com/in/news-releases/public-interest-registry-announces-2023-org-impact-awards-finalists-padma-lakshmi-to-host-301944439.html)
-
-Wasswa Takes Fight To Polluters Of Water Bodies. By  – The Observer News Paper, 2023: [Link](https://observer.ug/news/headlines/78660-wasswa-takes-fight-to-polluters-of-water-bodies)
-
-Boosting Nonprofits in their Use of Data to Drive Climate Action. By - Patrick J McGovern Foundation, May 23, 2022: [Link](https://medium.com/patrick-j-mcgovern-foundation/boosting-nonprofits-in-their-use-of-data-to-drive-climate-action-a35c5c83ee01)
-
-## Tables
-
-### Table 1
+## Interviews and recognitions in the press
 
 | Links            | Year   |    Description                                               |
 | --------         | ------ | ------------------------------------------------------------ |
