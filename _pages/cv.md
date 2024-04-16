@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 ---
-Find my current CV, here.
+Find brief CV, here.
 
