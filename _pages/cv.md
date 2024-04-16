@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+
 author_profile: true
 redirect_from:
   - /resume
@@ -10,5 +11,5 @@ redirect_from:
 {% include base_path %}
 
 ---
-Find my brief CV, here.
+Find my brief CV, [here](url: /files/nelson_cv_2023.pdf).
 
