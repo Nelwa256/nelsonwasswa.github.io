@@ -11,5 +11,5 @@ redirect_from:
 {% include base_path %}
 
 ---
-Find my brief CV, [here](url: /files/nelson_cv_2023.pdf).
+Find my brief CV, [here](#).
 
