@@ -22,7 +22,7 @@ repository               : "https://nelwa256/nwasswa.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Computer Scientist"
+  name             : #"Computer Scientist"
   pronouns         : # example: "she/her"  
   bio              : "A few things in life concern me.One is life, the other is how we live it."
   location         : "Kampala, Uganda"
