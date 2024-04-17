@@ -2,14 +2,15 @@
 main:
  # - title: "Publications"
  #   url: /publications/
-  - title: "CV"
-    url: /files/Nelson_Wasswa_2023_CURRICULUM_VITAE.pdf
 
   - title: "Talks & Presentations"
     url: /talks/    
 
   - title: "Press & Media"
     url: /markdown/
+  
+  - title: "CV"
+    url: /files/Nelson_Wasswa_2023_CURRICULUM_VITAE.pdf
 
  # - title: "Teaching"
  #   url: /teaching/    
